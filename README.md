@@ -1,0 +1,2 @@
+# DynamicGestureRecognition
+The project take video that contains one hand moving gesture and by using Image Processing(Python opencv) and an alogirthm calculates code bit i.e. state of each finger if it is open(1) closed(0) or half open(0.5) calculates the direction of movement of the object of interest i.e. hand and maps it a corresponding word that is defined in a small static dictionary in the program. Sample video is placed in Sentences folder.
